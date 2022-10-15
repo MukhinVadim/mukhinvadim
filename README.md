@@ -1,4 +1,5 @@
-# Hi there 👋 My name is Vadim, I am a front-end enthusiast developer from Russia.
+# Hi there 👋 
+## My name is Vadim, I am a front-end enthusiast developer from Russia.
 
 <!--
 **MukhinVadim/mukhinvadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
