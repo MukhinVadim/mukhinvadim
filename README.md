@@ -1,5 +1,6 @@
 # Hi there 👋 
-## My name is Vadim, I am a front-end enthusiast developer.
+My name is Vadim, I am a front-end enthusiast developer :rocket:.
+___
 
 <!--
 **MukhinVadim/mukhinvadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
